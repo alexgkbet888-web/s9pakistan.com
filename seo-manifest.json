@@ -1,0 +1,60 @@
+{
+    "schemaVersion":  "1.0",
+    "domain":  "s9pakistan.com",
+    "brand":  "S9 Trust Review Journal",
+    "market":  "Pakistan",
+    "language":  "en-PK",
+    "batch":  "S9-P1",
+    "owner":  "alexgkbet888-web",
+    "repoUrl":  "https://github.com/alexgkbet888-web/s9pakistan.com",
+    "deployUrl":  "https://s9pakistan.com/",
+    "siteType":  "authority",
+    "positioning":  "S9 safety, trust, official website checks and risk review authority for Pakistan users",
+    "status":  "active",
+    "registerTarget":  "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+    "primaryKeywords":  [
+                            "is s9 game real",
+                            "s9 official website Pakistan"
+                        ],
+    "secondaryKeywords":  [
+                              "s9 official website check Pakistan",
+                              "s9 scam apk warning",
+                              "s9 domain safety checklist"
+                          ],
+    "competitors":  [
+                        "https://s9game.com.pk/",
+                        "https://www.supers9game.com.pk/",
+                        "https://s9game.cc/",
+                        "https://s9game.co/",
+                        "https://s9game.ac.pk/"
+                    ],
+    "technical":  {
+                      "sitemapUrl":  "https://s9pakistan.com/sitemap.xml",
+                      "robotsUrl":  "https://s9pakistan.com/robots.txt",
+                      "feedUrl":  "https://s9pakistan.com/feed.xml",
+                      "canonicalRoot":  "https://s9pakistan.com/",
+                      "hasH5Responsive":  true,
+                      "hasRegisterCta":  true,
+                      "hasLoginLink":  false,
+                      "hasLotteryDirection":  false
+                  },
+    "gsc":  {
+                "property":  "sc-domain:s9pakistan.com",
+                "connected":  false,
+                "note":  "Set true only after GSC permission is verified and real data is imported."
+            },
+    "contentPlan":  {
+                        "homepageAngle":  "S9 safety, trust, official website checks and risk review authority for Pakistan users",
+                        "clusters":  [
+                                         "download",
+                                         "apk",
+                                         "register",
+                                         "wallet",
+                                         "support",
+                                         "faq",
+                                         "updates"
+                                     ],
+                        "weeklyUpdateTarget":  3
+                    },
+    "lastUpdated":  "2026-06-27"
+}

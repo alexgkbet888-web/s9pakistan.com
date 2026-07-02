@@ -1,0 +1,81 @@
+id,keyword,intent,priority,page_type,target_page,last_modified,source
+1,is s9 game real,core,P1,homepage/pillar,/,2026-06-28,sop-full-audit
+2,s9 official website Pakistan,core,P1,homepage/pillar,/,2026-06-28,sop-full-audit
+3,s9 official website check Pakistan,long-tail,P1,supporting article,/blog/,2026-06-28,sop-full-audit
+4,s9 scam apk warning,long-tail,P1,supporting article,/blog/,2026-06-28,sop-full-audit
+5,s9 domain safety checklist,long-tail,P1,supporting article,/blog/,2026-06-28,sop-full-audit
+6,s9 Pakistan,brand,P1,homepage,/,2026-06-28,sop-full-audit
+7,s9 game Pakistan,brand,P1,homepage,/,2026-06-28,sop-full-audit
+8,S9 Trust Review Journal support,brand,P2,support,/support/,2026-06-28,sop-full-audit
+9,S9 Trust Review Journal FAQ,brand,P2,faq,/faq/,2026-06-28,sop-full-audit
+10,s9 trust check Pakistan,category,P1,hub/category,/trust-check/,2026-06-28,sop-full-audit
+11,s9 reviews Pakistan,category,P1,hub/category,/reviews/,2026-06-28,sop-full-audit
+12,s9 safety checklist Pakistan,category,P1,hub/category,/safety-checklist/,2026-06-28,sop-full-audit
+13,s9 domain verification Pakistan,category,P1,hub/category,/domain-verification/,2026-06-28,sop-full-audit
+14,is s9 game real in Pakistan,question,P1,faq/article,/faq/,2026-06-28,sop-full-audit
+15,how to check s9 official website,question,P1,faq/article,/faq/,2026-06-28,sop-full-audit
+16,is s9 game safe to register,question,P1,faq/article,/faq/,2026-06-28,sop-full-audit
+17,what are fake s9 warning signs,question,P1,faq/article,/faq/,2026-06-28,sop-full-audit
+18,how to verify s9 support page,question,P1,faq/article,/faq/,2026-06-28,sop-full-audit
+19,s9 official site vs copy site,comparison,P2,comparison/article,/blog/,2026-06-28,sop-full-audit
+20,s9 review vs super s9 review,comparison,P2,comparison/article,/blog/,2026-06-28,sop-full-audit
+21,s9 game real or fake comparison,comparison,P2,comparison/article,/blog/,2026-06-28,sop-full-audit
+22,is s9 game real Pakistan,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+23,is s9 game real PK,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+24,is s9 game real Android,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+25,is s9 game real mobile,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+26,is s9 game real H5,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+27,is s9 game real 2026,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+28,is s9 game real guide,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+29,is s9 game real checklist,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+30,is s9 game real fix,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+31,is s9 game real not working,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+32,is s9 game real latest update,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+33,is s9 game real support,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+34,s9 official website Pakistan Pakistan,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+35,s9 official website Pakistan PK,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+36,s9 official website Pakistan Android,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+37,s9 official website Pakistan mobile,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+38,s9 official website Pakistan H5,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+39,s9 official website Pakistan 2026,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+40,s9 official website Pakistan guide,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+41,s9 official website Pakistan checklist,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+42,s9 official website Pakistan fix,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+43,s9 official website Pakistan not working,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+44,s9 official website Pakistan latest update,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+45,s9 official website Pakistan support,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+46,s9 official website check Pakistan Pakistan,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+47,s9 official website check Pakistan PK,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+48,s9 official website check Pakistan Android,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+49,s9 official website check Pakistan mobile,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+50,s9 official website check Pakistan H5,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+51,s9 official website check Pakistan 2026,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+52,s9 official website check Pakistan guide,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+53,s9 official website check Pakistan checklist,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+54,s9 official website check Pakistan fix,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+55,s9 official website check Pakistan not working,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+56,s9 official website check Pakistan latest update,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+57,s9 official website check Pakistan support,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+58,s9 scam apk warning Pakistan,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+59,s9 scam apk warning PK,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+60,s9 scam apk warning Android,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+61,s9 scam apk warning mobile,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+62,s9 scam apk warning H5,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+63,s9 scam apk warning 2026,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+64,s9 scam apk warning guide,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+65,s9 scam apk warning checklist,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+66,s9 scam apk warning fix,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+67,s9 scam apk warning not working,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+68,s9 scam apk warning latest update,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+69,s9 scam apk warning support,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+70,s9 domain safety checklist Pakistan,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+71,s9 domain safety checklist PK,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+72,s9 domain safety checklist Android,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+73,s9 domain safety checklist mobile,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+74,s9 domain safety checklist H5,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+75,s9 domain safety checklist 2026,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+76,s9 domain safety checklist guide,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+77,s9 domain safety checklist checklist,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+78,s9 domain safety checklist fix,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+79,s9 domain safety checklist not working,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+80,s9 domain safety checklist latest update,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit

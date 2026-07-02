@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0",
+  "domain": "s9pakistan.com",
+  "brand": "S9 Trust Review Journal",
+  "market": "Pakistan",
+  "language": "en-PK",
+  "batch": "S9-P1",
+  "owner": "alexgkbet888-web",
+  "deployUrl": "https://s9pakistan.com/",
+  "siteType": "authority",
+  "positioning": "S9 safety, trust, official website checks and risk review authority for Pakistan users",
+  "status": "active",
+  "registerTarget": "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+  "primaryKeywords": [
+    "is s9 game real",
+    "s9 official website Pakistan"
+  ],
+  "secondaryKeywords": [
+    "s9 official website check Pakistan",
+    "s9 scam apk warning",
+    "s9 domain safety checklist"
+  ],
+  "technical": {
+    "sitemapUrl": "https://s9pakistan.com/sitemap.xml",
+    "robotsUrl": "https://s9pakistan.com/robots.txt",
+    "feedUrl": "https://s9pakistan.com/feed.xml",
+    "hasH5Responsive": true,
+    "hasRegisterCta": true,
+    "hasLoginLink": false,
+    "hasLotteryDirection": false
+  },
+  "gsc": {
+    "property": "sc-domain:s9pakistan.com",
+    "connected": false
+  }
+}
