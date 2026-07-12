@@ -1,0 +1,9 @@
+{
+  "ga4": "G-Y6WS71WJ22",
+  "ga4Stream": "S9 Network Web",
+  "ga4StreamId": "15061984208",
+  "gsc": "REPLACE",
+  "bing": "REPLACE",
+  "logAnalysis": "REPLACE",
+  "segmentation": "Use GA hostname to split the 10 S9 domains."
+}
