@@ -1,15 +1,15 @@
-﻿{
-    "icons":  [
-                  {
-                      "type":  "image/svg+xml",
-                      "sizes":  "any",
-                      "src":  "icon.svg"
-                  }
-              ],
-    "name":  "S9 Trust Review Journal",
-    "background_color":  "#ffffff",
-    "display":  "standalone",
-    "short_name":  "S9 Trust Review Journal",
-    "theme_color":  "#111827",
-    "start_url":  "/"
+{
+  "name": "s9pakistan",
+  "short_name": "s9pakistan",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#111827",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
 }
