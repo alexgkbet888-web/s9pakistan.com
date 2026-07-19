@@ -2,11 +2,12 @@ const root=window.SITE_ROOT||"";
 
 (function(){
   const id="G-Y6WS71WJ22";
-  let started=false;
+  if(window.__s9Ga4LoaderReady)return;
+  window.__s9Ga4LoaderReady=true;
 
   function loadDeferredResources(){
-    if(started)return;
-    started=true;
+    if(window.__s9Ga4Loaded)return;
+    window.__s9Ga4Loaded=true;
 
     fetch(root+"data/updates.json").catch(()=>{});
     window.dataLayer=window.dataLayer||[];
