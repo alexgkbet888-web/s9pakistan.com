@@ -75,3 +75,8 @@
   .mobile-experience h1,.mobile-experience .mobile-title{font-size:clamp(28px,7.4vw,32px);padding-left:16px;padding-right:16px;box-sizing:border-box}
   .mobile-experience>p{padding-left:16px;padding-right:16px;box-sizing:border-box}
 }
+/* Manual QA 2026-07-26: keep keyword navigation inside mobile viewport. */
+@media(max-width:820px){
+  .engine-links,.keyword-map{grid-template-columns:1fr!important;min-width:0}
+  .engine-links a,.keyword-map a{display:flex;align-items:center;min-width:0;min-height:44px;overflow-wrap:anywhere}
+}

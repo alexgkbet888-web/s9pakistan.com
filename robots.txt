@@ -1,13 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://s9pakistan.com/sitemap.xml
 
-User-agent: *
-User-agent: *
-User-agent: *
-User-agent: *
-User-agent: *
-User-agent: *
-User-agent: *
-User-agent: *
-User-agent: *
+Sitemap: https://s9pakistan.com/sitemap.xml
