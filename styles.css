@@ -75,4 +75,4 @@
   .mobile-experience h1,.mobile-experience .mobile-title{font-size:clamp(28px,7.4vw,32px);padding-left:16px;padding-right:16px;box-sizing:border-box}
   .mobile-experience>p{padding-left:16px;padding-right:16px;box-sizing:border-box}
 }
-@media(min-width:821px) and (max-width:1100px){.site-head{height:auto;min-height:74px;align-items:flex-start;padding-top:14px;padding-bottom:14px}.site-head nav{max-width:calc(100% - 180px);flex-wrap:wrap;justify-content:flex-end;gap:8px 12px}.site-head nav a{white-space:nowrap}}
+@media(min-width:821px) and (max-width:1100px){.site-head{height:auto;min-height:74px;align-items:flex-start;padding-top:14px;padding-bottom:14px;gap:12px}.site-head nav{width:calc(100% - 220px);max-width:none;min-width:0;flex-wrap:wrap;justify-content:flex-end;gap:8px 10px;font-size:13px}.site-head nav a{white-space:nowrap}}
