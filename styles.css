@@ -80,3 +80,9 @@
   .engine-links,.keyword-map{grid-template-columns:1fr!important;min-width:0}
   .engine-links a,.keyword-map a{display:flex;align-items:center;min-width:0;min-height:44px;overflow-wrap:anywhere}
 }
+/* Manual QA 2026-08-06: wrap long desktop navigation before it overflows. */
+@media(min-width:821px) and (max-width:1100px){
+  .site-head{height:auto;min-height:74px;align-items:flex-start;padding-top:14px;padding-bottom:14px}
+  .site-head nav{max-width:calc(100% - 180px);flex-wrap:wrap;justify-content:flex-end;gap:8px 12px}
+  .site-head nav a{white-space:nowrap}
+}
